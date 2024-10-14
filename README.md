@@ -17,6 +17,6 @@ Faith Dalton
 
 ## In-Class Activities
 
-- [Understanding map coordinates]()
+- [Understanding map coordinates](ICA/Understanding_Coordinates.ipynb)
 
 ## Class Projects
