@@ -20,3 +20,4 @@ Faith Dalton
 - [Understanding map coordinates](ICA/Understanding_Coordinates.ipynb)
 
 ## Class Projects
+This section will be updated once the final project has been submitted. Thank you for your patience. 
