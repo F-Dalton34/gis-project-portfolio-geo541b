@@ -1,4 +1,4 @@
-# :earth_americas: GEO 441B/541B Geographic Information Systems :earth_americas:
+# :earth_americas: GEO 541B Geographic Information Systems :earth_americas:
 
 Faith Dalton
 
