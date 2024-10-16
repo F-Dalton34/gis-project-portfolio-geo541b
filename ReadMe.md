@@ -18,6 +18,7 @@ Faith Dalton
 ## In-Class Activities
 
 - [Understanding map coordinates](ICA/Understanding_Coordinates.ipynb)
+- [Understanding band composites](ICA/understand_band_composite.ipynb)
 
 ## Class Projects
 This section will be updated once the final project has been submitted. Thank you for your patience. 
