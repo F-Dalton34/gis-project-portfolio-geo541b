@@ -15,6 +15,8 @@ Faith Dalton
 
 - [Query Spatial Data for New Insights](Weekly_Assignments/query_spatial_data_for_new_insights.ipynb)
 
+- [Mapping Digital Elevation and Hydrology Data](Weekly_Assignments/Mapping_digital_elevation_and_hydrology_data.ipynb)
+
 ## In-Class Activities
 
 - [Understanding map coordinates](ICA/Understanding_Coordinates.ipynb)
