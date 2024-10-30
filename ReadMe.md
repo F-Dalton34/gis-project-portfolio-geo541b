@@ -17,6 +17,8 @@ Faith Dalton
 
 - [Mapping Digital Elevation and Hydrology Data](Weekly_Assignments/Mapping_digital_elevation_and_hydrology_data.ipynb)
 
+- [Spatial Analysis for Raster Data](https://github.com/F-Dalton34/gis-project-portfolio-geo541b/blob/main/Weekly_Assignments/Raster%20Data.ipynb) 
+
 - [Practice Spatial Analysis for Vector Data](https://github.com/F-Dalton34/gis-project-portfolio-geo541b/blob/main/Weekly_Assignments/Spatial%20Analysis%20for%20Vector%20Data.ipynb)
 
 ## In-Class Activities
