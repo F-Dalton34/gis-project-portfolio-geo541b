@@ -17,6 +17,8 @@ Faith Dalton
 
 - [Mapping Digital Elevation and Hydrology Data](Weekly_Assignments/Mapping_digital_elevation_and_hydrology_data.ipynb)
 
+- [Practice Spatial Analysis for Vector Data](Weekly_Assignments/Spatial Analysis for Vector Data.ipynb)
+
 ## In-Class Activities
 
 - [Understanding map coordinates](ICA/Understanding_Coordinates.ipynb)
