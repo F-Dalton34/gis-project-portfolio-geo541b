@@ -7,7 +7,7 @@ Faith Dalton
 
 ## Assignments
 
-- [Introduction to ArcGIS Pro](Weekly_Assignments/introduction_to_arcgis_pro_gui.ipynb)
+- [(Week 1) Introduction to ArcGIS Pro](Weekly_Assignments/introduction_to_arcgis_pro_gui.ipynb)
   
 - [Data Model and More Mapping](Weekly_Assignments/data_model_and_more_mapping.ipynb)
 
