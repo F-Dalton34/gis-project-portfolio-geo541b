@@ -27,4 +27,4 @@ Faith Dalton
 - [Understanding band composites](ICA/understand_band_composite.ipynb)
 
 ## Class Projects
-This section will be updated once the final project has been submitted. Thank you for your patience. 
+[Homeownership in Ohio - GitHub Repository](https://github.com/F-Dalton34/Ohio_Home_Ownership) 
