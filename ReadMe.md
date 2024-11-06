@@ -19,7 +19,7 @@ Faith Dalton
 
 - [Spatial Analysis for Raster Data](https://github.com/F-Dalton34/gis-project-portfolio-geo541b/blob/main/Weekly_Assignments/Raster%20Data.ipynb) 
 
-- [Practice Spatial Analysis for Vector Data](https://github.com/F-Dalton34/gis-project-portfolio-geo541b/blob/main/Weekly_Assignments/Spatial%20Analysis%20for%20Vector%20Data.ipynb)
+- [Practice Spatial Analysis for Vector Data](https://github.com/F-Dalton34/gis-project-portfolio-geo541b/blob/main/Spatial_Analysis/Practice_SA_for_vector_data.ipynb)
 
 ## In-Class Activities
 
