@@ -21,6 +21,8 @@ Faith Dalton
 
 - [Practice Spatial Analysis for Vector Data - Week 10](https://github.com/F-Dalton34/gis-project-portfolio-geo541b/blob/main/Spatial_Analysis/Practice_SA_for_vector_data.ipynb)
 
+- [Extra Credit - Week 11](https://github.com/F-Dalton34/gis-project-portfolio-geo541b/blob/main/Weekly_Assignments/Week_11.ipynb)
+
 ## In-Class Activities
 
 - [Understanding map coordinates](ICA/Understanding_Coordinates.ipynb)
