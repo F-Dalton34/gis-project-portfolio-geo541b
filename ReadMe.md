@@ -27,6 +27,7 @@ Faith Dalton
 
 - [Understanding map coordinates](ICA/Understanding_Coordinates.ipynb)
 - [Understanding band composites](ICA/understand_band_composite.ipynb)
+- [Cholera Outbreak Map - Creating an App](https://miamioh.maps.arcgis.com/apps/instant/sidebar/index.html?appid=7caf033f4a3243f697c2088d6f600065)
 
 ## Class Projects
 [Homeownership in Ohio - GitHub Repository](https://github.com/F-Dalton34/Ohio_Home_Ownership) 
