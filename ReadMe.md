@@ -23,7 +23,7 @@ Faith Dalton
 
 - [Creating 3D Features with Multipatch Texture - Extra Credit - Week 11](https://github.com/F-Dalton34/gis-project-portfolio-geo541b/blob/main/Weekly_Assignments/Week_11.ipynb)
 
-- [Working with US Census Data for Spatial Analysis - Week 12](https://github.com/F-Dalton34/gis-project-portfolio-geo541b/blob/main/Week_12.ipynb)
+- [Working with US Census Data for Spatial Analysis - Week 12]([https://github.com/F-Dalton34/gis-project-portfolio-geo541b/blob/main/Week_12.ipynb](https://github.com/F-Dalton34/Ohio_Home_Ownership/blob/main/Weekly_Assignments/Week_12.ipynb)
 
 ## In-Class Activities
 
