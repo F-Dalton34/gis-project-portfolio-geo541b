@@ -34,7 +34,7 @@ Faith Dalton
 - [Working with US Census Data for Spatial Analysis - Week 12](https://github.com/F-Dalton34/gis-project-portfolio-geo541b/blob/main/Spatial%20Analysis/Week_12.ipynb)
      - The assignment teaches the basics of obtaining U.S. Census Data and TIGER/Line geodatabases to create two maps. The first map displays the school-aged children per 1,000 people in Ohio at the tract level. The second map shows a normalized metric for the final group project. A map displaying the average yearly income spent on rent in Ohio at the tract level was created to show a correlation between income and the estimated cost of housing. The map would be beneficial to compare the cost of housing to the percentage of ownership. The final deliverable was spresented in the format of a Google Collab Notebook.
        
-(---)
+---
 
 ## Class Projects
 [Homeownership in Ohio - GitHub Repository](https://github.com/F-Dalton34/Ohio_Home_Ownership) 
