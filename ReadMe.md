@@ -36,6 +36,6 @@ Faith Dalton
        
 ---
 
-## Class Projects
+## Class Projects 🏘️
 [Homeownership in Ohio - GitHub Repository](https://github.com/F-Dalton34/Ohio_Home_Ownership) 
   - The final group project analyzes the U.S. Census home owner data at the census tract level to answer questions about home ownership and renter percentages in Ohio during 2010 and 2020. Due to a complication with the census data for 2020, the group used data from 2019. The group also created maps showing age and income to understand how those factors determined the spatial trend. The final deliverable was a link to the group's GitHub repository, a cleaned dataset in the repository, an updated README page, the proposal slides, and a link to the StoryMap prepared as the final report. The story map discusses why the topic was studies, how it was studied, what the results were and what they mean.
