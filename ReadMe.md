@@ -9,7 +9,7 @@ Faith Dalton
 
 - [Introduction to ArcGIS Pro - Week 1](https://github.com/F-Dalton34/gis-project-portfolio-geo541b/blob/main/General%20Mapping/introduction_to_arcgis_pro_gui.ipynb)
   - The deliverable of the assignment was a map of the Cloquet Forestry Center. The goal was to obtain a level of familiarity and proficency with the basic-level functions of ArcGIS Pro and gain experience with Google Colab Notebooks.
-  - 'General Mapping'
+'General Mapping'
 
   
 - [Data Model and More Mapping - Week 2]([Weekly_Assignments/data_model_and_more_mapping.ipynb](https://github.com/F-Dalton34/gis-project-portfolio-geo541b/blob/main/General%20Mapping/data_model_and_more_mapping.ipynb))
