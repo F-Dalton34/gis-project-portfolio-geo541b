@@ -33,12 +33,7 @@ Faith Dalton
 
 - [Working with US Census Data for Spatial Analysis - Week 12](https://github.com/F-Dalton34/gis-project-portfolio-geo541b/blob/main/Spatial%20Analysis/Week_12.ipynb)
      - The assignment teaches the basics of obtaining U.S. Census Data and TIGER/Line geodatabases to create two maps. The first map displays the school-aged children per 1,000 people in Ohio at the tract level. The second map shows a normalized metric for the final group project. A map displaying the average yearly income spent on rent in Ohio at the tract level was created to show a correlation between income and the estimated cost of housing. The map would be beneficial to compare the cost of housing to the percentage of ownership. The final deliverable was spresented in the format of a Google Collab Notebook.
-
-## In-Class Activities
-
-- [Understanding map coordinates](ICA/Understanding_Coordinates.ipynb)
-- [Understanding band composites](ICA/understand_band_composite.ipynb)
-- [Cholera Outbreak Map - Creating an App](https://miamioh.maps.arcgis.com/apps/instant/sidebar/index.html?appid=7caf033f4a3243f697c2088d6f600065)
-
+(---)
 ## Class Projects
 [Homeownership in Ohio - GitHub Repository](https://github.com/F-Dalton34/Ohio_Home_Ownership) 
+  - The final group project analyzes the U.S. Census home owner data at the census tract level to answer questions about home ownership and renter percentages in Ohio during 2010 and 2020. Due to a complication with the census data for 2020, the group used data from 2019. The group also created maps showing age and income to understand how those factors determined the spatial trend. The final deliverable was a link to the group's GitHub repository, a cleaned dataset in the repository, an updated README page, the proposal slides, and a link to the StoryMap prepared as the final report. The story map discusses why the topic was studies, how it was studied, what the results were and what they mean.
