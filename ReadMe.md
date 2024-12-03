@@ -21,7 +21,7 @@ Faith Dalton
     - The assignment provides practice with tabular data management in ArcGIS Pro. Throughout the assingment, tabular data was viewed, selected, re-ordered, and updated. The goal was to produce a map showing high population counties with high old/young ratios for counties in the contiguous U.S. using 2000 U.S. Census data, as well as a map showing soil fertility in a portion of Mancon Country, North Carolina. The final deliverable was spresented in the format of a Google Colab Notebook. 
 
 
-- [Mapping Digital Elevation and Hydrology Data - Week 8](https://github.com/F-Dalton34/gis-project-portfolio-geo541b/blob/main/Raster%20and%20Satellite%20Data/Mapping_digital_elevation_and_hydrology_data.ipynb)
+- [Mapping Digital Elevation and Hydrology Data - Week 8](https://github.com/F-Dalton34/gis-project-portfolio-geo541b/blob/main/Raster%20and%20Satellite%20Data/Mapping_digital_elevation_and_hydrology_data.ipynb) ℹ️ Raster and Satellite Data
     - The assignment introduces some connomly available digital data sets and basic ways to use these data. The goal for the assignment was to create a map for a digital elevation model of Lower St. Croix watershed in Minnesota and the hydraulic data from National Hydraulic Data (NHD). Additionally, a raster data set that could be used for a group project needed to be identified. The final deliverable was spresented in the format of a Google Colab Notebook. 
 
 - [Spatial Analysis for Raster Data - Week 9](https://github.com/F-Dalton34/gis-project-portfolio-geo541b/blob/main/Spatial%20Analysis/Raster%20Data.ipynb) ℹ️ Spatial Analysis
@@ -30,7 +30,7 @@ Faith Dalton
 - [Practice Spatial Analysis for Vector Data - Week 10](https://github.com/F-Dalton34/gis-project-portfolio-geo541b/blob/main/Spatial%20Analysis/Spatial%20Analysis%20for%20Vector%20Data.ipynb) ℹ️ Spatial Analysis
     - The assignment applies the concepts of buffering and overlay to create maps relating to lake variable distance buffers, suitable recreation areas, and which of those areas are on private land only. Additionally, two maps of Cholera deaths in Soho, London during the 1850s outbreak was created using buffers and heat maps. The final deliverable was spresented in the format of a Google Colab Notebook.
 
-- [Creating 3D Features with Multipatch Texture - Extra Credit - Week 11](https://github.com/F-Dalton34/gis-project-portfolio-geo541b/blob/main/The%20World%20in%203D/Week_11.ipynb) ℹ️ 
+- [Creating 3D Features with Multipatch Texture - Extra Credit - Week 11](https://github.com/F-Dalton34/gis-project-portfolio-geo541b/blob/main/The%20World%20in%203D/Week_11.ipynb) ℹ️ 3D with ArcGIS Pro
     - The goal of the assignemnt was to create a zip file for 3D buildings using ArcGIS Pro. Data was provided from a previous group assignment involving scale calculations to obtain the building's height. Each student was required to complete three buildings (assigned by the professor) with multi-patch textures of the street-facing facade. The final deliverable was a zip file submitted onto canvas, however, students were able to recieve extra credit for creating a Google Colab Notebook. 
 
   
